@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(245, 242, 242);
+}
+
+.container{
+    width: 660px;
+    margin: 0 auto;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color:cyan;
+}
